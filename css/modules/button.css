@@ -1,0 +1,82 @@
+.btitlex_btn {
+    margin-left: 100px;
+    padding-left: 57px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 57px;
+}
+.skills-card_btn{
+    font-size: 36px;
+    line-height: 30px;
+    color: white;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top:32px;
+    padding-bottom: 32px;
+    background-color:#263238 ;
+    border-radius: 15px;
+    margin-top: 62px;
+    margin-left: 42px;
+    margin-bottom: 92px;
+}
+.skills-cardw_btn{
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 64px;
+    padding-right: 64px;
+    color: white;
+     background-color:#263238 ;
+     border-radius: 5px;
+     margin-top: 36px;
+     margin-bottom: 60px;
+     margin-right:162px ;
+     margin-left:43px ;
+}
+.skills-cardl_btn{
+    font-size: 20px;
+    line-height: 30px;
+    color:#FFFFFF ;
+    background-color: #263238;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 52px;
+    padding-right: 52px;
+    margin-left: 43px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.pricing-cards_btn{
+    border-radius: 5px;
+    background-color: #EEEEEE;
+    padding-left: 24px;
+    padding-right: 24px;
+    color:#546269 ;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.contact-corda_btn{
+    font-size: 20px;
+    line-height: 30px;
+    color:#FFFFFF ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 82px;
+    padding-right: 82px;
+    border-radius: 5px;
+    background-color: #263238;
+}
+.input{
+    font-size: 18px;
+    line-height: 30px;
+    color:#8F95A5 ;
+    padding-top: 29px;
+    padding-bottom: 30px;
+    padding-left: 33px;
+    padding-right: 100px;
+    border-radius: 5px;
+}

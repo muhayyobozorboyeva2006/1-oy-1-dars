@@ -1,0 +1,248 @@
+#hero{
+    padding-top: 57px;
+    padding-bottom: 115px;
+}
+.hero-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.hero-card_title{
+    font-size: 64px;
+    line-height: 80px;
+    color: #000000;
+    padding-top: 115px;
+}
+.hero-card_des{
+    font-size: 24px;
+    line-height: 30px;
+    color: #8F95A5;
+    padding-top: 40px;
+}
+.skills-cards{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.skills-card{
+    background-color:#F5F5F5 ;
+
+}
+.skills-card_title{
+    font-size: 30px;
+    line-height: 80px;
+    color:#263238 ;
+    margin-left: 43px;
+}
+.skills-card_des{
+    font-size: 16px;
+    line-height: 30px;
+    color:#8F95A5;
+    margin-left: 43px;
+}
+.skills-card{
+    width: 435px;
+    height: 894px;
+    border-radius: 10px;
+}
+
+.skills-cardw{
+    width: 434px;
+    height: 590px;
+    border-radius: 10px;
+    background-color:#F5F5F5 ;
+    margin-bottom: 100px;
+}
+.skills-cardw_title{
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 42px;
+}
+.skills-cardw_img{
+    width: 393px;
+    height: 293px;
+    padding-left: 122px;
+    padding-right: 19px;
+}
+.skills-cardw_des{
+    padding-left: 42px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.skills-cardw_btn{
+   background-color: #263238; 
+   color: white;
+   border-radius: 5px;
+   font-size: 20px;
+   line-height: 30px;
+   padding-left: 52px;
+   padding-right: 52px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   margin-left:41px ;
+   margin-top: 30px;
+}
+.skills-cardb{
+    display: flex;
+    background-color:#F5F5F5 ;
+    width: 959px;
+    height: 343px;
+    margin-left:530px ;
+    border-radius: 10px;
+
+}
+.skills-cardl_title{
+    font-size: 30px;
+    line-height: 80px;
+    color: #263238;
+    padding-left: 48px;
+    padding-top: 20px;
+    padding-right: 300px;
+}
+.skills-cardl_des{
+    font-size: 16px;
+    line-height: 30px;
+    color: #8F95A5;
+    padding-left:48px ;
+    
+}
+.skills-carda{
+    cursor: pointer;
+    transform:translatey(-290px);
+}
+.skills-card:hover{
+      transform: translate(60px, 90px);
+      opacity: 2;
+}
+.skills-cardw:hover{
+    transform: translate(60px,90px);
+    opacity: 2;
+}
+.skills-carda:hover{
+    transform: translate(60px, 90px);
+    opacity: 2;
+}
+.adout-cart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adout-card1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.about-cardt_title{
+    font-size: 48px;
+    line-height: 80px;
+    color: #000000;
+    padding-top: 50px;
+}
+.about-cardt_des{
+    font-size: 20px;
+    line-height: 40px;
+    color: #8F95A5;
+    padding-top: 20px;
+}
+.adout-card2_des{
+    font-size: 20px;
+    list-style:30px;
+    color: #8F95A5;
+}
+.about-cardt_title{
+    font-size: 48px;
+    line-height: 80px;
+    color:#2A3246 ;
+}
+.pricing-cardp_title{
+    font-size: 30px;
+    line-height: 48px;
+    color: #263238;
+    text-align: center;
+    margin-top: 80px;
+}
+.pricing-cardr{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    }
+ .pricing-cards_title{
+    font-size: 30px;
+    line-height: 48px;
+    color: #263238;
+    padding-top: 40px;
+ }
+ .pricing-cards_des{
+    font-size: 18px;
+    line-height: 30px;
+    color: #8F95A5;
+    padding-top: 19px;
+ }
+ .pricing-cards1_title{
+    font-size: 30px;
+        line-height: 48px;
+        color: #263238;
+        padding-top: 70px;
+ }
+ .pricing-cards1_des {
+     font-size: 18px;
+     line-height: 30px;
+     color: #8F95A5;
+     padding-top: 19px;
+     padding-bottom: 20px;
+ }
+ .pricing-cards2_title {
+     font-size: 30px;
+     line-height: 48px;
+     color: #263238;
+     padding-top: 20px;
+ }
+
+ .pricing-cards2_des {
+     font-size: 18px;
+     line-height: 30px;
+     color: #8F95A5;
+     padding-top: 19px;
+     padding-bottom: 20px;
+ }
+ .pricing-cards:hover{
+    transform: translate(60px, 90px);
+ }
+ .pricing-cards{
+    cursor: pointer;
+ }
+ .pricing-cards1{
+    cursor: pointer;
+ }
+ .pricing-cards2{
+    cursor: pointer;
+ }
+ .pricing-cards1:hover{
+    transform: translate(60px ,90px);
+ }
+ .pricing-cards2:hover{
+    transform: translate(60px, 90px);
+ }
+ .contact-cord{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 250px;
+ }
+ .contact-corda_title{
+    font-size: 48px;
+    line-height: 80px;
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 37px;
+ }
+ .contact-corda_des{
+    font-size: 20px;
+    line-height: 30px;
+    color: #8F95A5;
+    padding-bottom:52px ;
+ }
+ .lex-cords2_des{
+    font-size: 24px;
+    line-height: 30px;
+    color: #8F95A5;
+ }
+ 

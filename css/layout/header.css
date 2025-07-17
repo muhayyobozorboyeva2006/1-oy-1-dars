@@ -1,0 +1,29 @@
+.britlex{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.britlex ul{
+    display: flex;
+    gap: 30px;
+}
+.britlex_h1{
+    font-size: 36px;
+    line-height: 30px;
+    color: black;
+}
+.britlex ul a{
+    font-size: 20px;
+    line-height: 20px;
+    color: #263238;
+    padding-top: 400px;
+}
+.lex-cords{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
